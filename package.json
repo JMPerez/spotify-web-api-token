@@ -1,0 +1,31 @@
+{
+  "name": "spotify-web-api-token",
+  "version": "0.0.1",
+  "description": "A simple Node.js app that exposes an access token to use the Spotify Web API",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "request": "^2.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmperez/spotify-web-api-token.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmperez/spotify-web-api-token/issues"
+  },
+  "homepage": "https://github.com/jmperez/spotify-web-api-token#readme",
+  "author": "José M. Pérez"
+}
